@@ -1,0 +1,45 @@
+.card-container {
+  width: 22%;
+  margin: 1%;
+  height: 150px;
+  border: 1px solid black;
+  /* display: flex;
+  justify-content: space-between; */
+  padding: 5px;
+  border-radius: 8px;
+  background: rgb(233, 220, 204);
+}
+.card {
+  padding: 10px;
+}
+.card-button-container {
+  margin-top: 10px;
+  padding: 5px;
+  text-align: center;
+}
+.add-btn {
+  background: rgb(212, 116, 135);
+  padding: 8px;
+  cursor: pointer;
+  width: 160px;
+  border-radius: 4px;
+}
+
+.wishlist-btn {
+  padding: 8px;
+  margin-left: 3px;
+  cursor: pointer;
+  width: 120px;
+  border-radius: 4px;
+}
+.prod-title {
+  font-size: x-large;
+}
+.prod-description {
+  font-family: cursive;
+}
+.remove-btn {
+  padding: 8px;
+  margin-left: 3px;
+  cursor: pointer;
+}

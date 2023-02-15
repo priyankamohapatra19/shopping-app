@@ -1,0 +1,13 @@
+.wishlist-container {
+  display: flex;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+}
+.wishlist-text {
+  font-size: large;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  color: red;
+  width: 100%;
+}

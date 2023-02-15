@@ -1,0 +1,28 @@
+.cart-container {
+  width: 100%;
+}
+.checkout-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 30%;
+  position: relative;
+  left: 66%;
+  padding: 8px;
+}
+.total-text {
+  font-weight: bold;
+}
+.proceed-button {
+  padding: 8px;
+  background: rgb(226, 98, 184);
+}
+.total-text-cart {
+  margin-top: 10px;
+  margin-right: 90px;
+}
+.cart-title {
+  margin-left: 1%;
+}
+.proceed-button {
+  cursor: pointer;
+}
